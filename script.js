@@ -86,3 +86,70 @@ $("h1");
 
 // $("button").remove();
 
+// $("button").on("click", function () {
+//     $("h1").css("color", "red");
+// });
+
+
+// website animations
+
+// $("button").on("click", function () {
+//     $("h1").hide();
+// });
+
+// $("button").on("click", function () {
+//     $("h1").show();
+// });
+
+// $("button").on("click", function () {
+//     $("h1").toggle();
+// });
+
+
+
+// $("button").on("click", function () {
+//     $("h1").fadeOut();
+// });
+
+// $("button").on("click", function () {
+//     $("h1").$(selector).fadeIn(); ();
+// });
+
+
+// $("button").on("click", function () {
+//     $("h1").fadeToggle();
+// });
+
+// $("button").on("click", function () {
+//     $("h1").slideUp();
+// });
+
+// $("button").on("click", function () {
+//     $("h1").slideToggle();
+// });
+
+// custom css
+
+// $("button").on("click", function () {
+//     $("h1").animate({ fontSize: "20rem" });
+// });
+
+
+// $("button").on("click", function () {
+//     $("h1").slideDown().slideUp().animate({ opacity: "0.5" });
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
